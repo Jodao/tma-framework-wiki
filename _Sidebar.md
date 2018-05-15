@@ -1,0 +1,6 @@
+* [Main repos](https://github.com/nmsa/tma-framework)
+[**M**onitor](https://github.com/nmsa/tma-framework-m)
+[**A**nalyze](https://github.com/nmsa/tma-framework-a)
+[**P**lanning](https://github.com/nmsa/tma-framework-p)
+[**E**xecute](https://github.com/nmsa/tma-framework-e)
+[**K**nowledge](https://github.com/nmsa/tma-framework-k)
