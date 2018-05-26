@@ -8,7 +8,7 @@
 
 
 # Usage instructions:
-* Deploy a testing mode TMA Monitor deployment in kubernetes
-* Integrate TMA Monitor Client in your Java Probe
+* [Deploy a testing mode TMA Monitor deployment in kubernetes]()
+* [Integrate TMA Monitor Client in your Java Probe]()
 * Integrate TMA Monitor Client in your Python Probe
 * Deploy a TMA Monitor deployment in Kubernetes
