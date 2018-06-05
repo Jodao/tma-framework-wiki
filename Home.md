@@ -21,8 +21,6 @@ It also acts as the umbrella repository for 5 other repositories that map with e
 Each repository maintains its own issues and projects, while the [umbrella project](https://github.com/eubr-atmosphere/tma-framework) only manages general issues that affect more than one component.
 
 
-***
-
 
 ***
 
@@ -36,4 +34,3 @@ However, this is still under development.
 * Integrate TMA Monitor Client in your Python Probe
 * Deploy a TMA Monitor deployment in Kubernetes
 
-***

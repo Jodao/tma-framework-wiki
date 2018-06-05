@@ -1,1 +1,4 @@
-![ATMOSPHERE Logo](logo.png)
+
+***
+
+![ATMOSPHERE Logo](logo.jpg)
