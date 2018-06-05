@@ -1,4 +1,4 @@
-# Welcome to the Trustworthiness Monitoring & Assessment Framework wiki!
+# Welcome to the TMA Framework wiki!
 
 
 
