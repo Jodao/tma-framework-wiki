@@ -4,8 +4,8 @@
 The following pages provide links for relevant information. 
 
 * [F.A.Q. on Probes Development](F.A.Q.-on-Probes-Development) - quick answer to the main questions;
-* [F.A.Q. on Platform Deployment](F.A.Q.-on-Platform-Deployment) - not yet available;
-* [F.A.Q. on Actuators Development](F.A.Q.-on-Actuators-Development) - not yet available;
+* F.A.Q. on Platform Deployment - not yet available;
+* F.A.Q. on Actuators Development - not yet available;
 
 ## Repositories Structure
 
