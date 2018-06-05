@@ -1,10 +1,14 @@
-# Welcome to the TMA Framework wiki!
+
+The following pages provide links for relevant information. 
+
+* [F.A.Q. on Probes Development](F.A.Q.-on-Probes-Development) - quick answer to the main questions;
+* [Repositories Structure](Repositories-Structure) - Description of the repository structure;
+
+***
 
 
 
-* [Repositories-Structure](Repositories-Structure) - Description of the repository structure;
-
-
+***
 
 
 ***
