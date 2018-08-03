@@ -10,7 +10,7 @@ Some of the Work Packages will create their own probes. They are:
 - **WP5: Distributed Trustworthy Data Management Services**: the probes for this WP will be created in the task T5.4 (Trustworthiness Measurements and Adaptation Mechanisms for Data Management);
 - **WP6: Trustworthy Data Processing Services**: the probes for this WP will be created in the task T6.4 (Data Processing Services Trustworthiness Measurement and Adaptation Mechanisms).
 
-Each probe should have a public key in order to the communication with TMA to be encrypted and secure.
+In order to perform a secure connection, each probe should have the certificate from Monitor component. With this certificate, probes assure the Monitor identity and are able to encrypt all communication with Monitor public key, which only allows Monitor to decrypt information with its private key.
 
 ## How can I create my own probe?
 Instructions to create a probe in `Java` are [provided here](https://github.com/eubr-atmosphere/tma-framework-m/tree/master/development/libraries/monitor-client).
