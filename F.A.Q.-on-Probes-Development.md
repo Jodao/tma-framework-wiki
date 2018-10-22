@@ -1,6 +1,6 @@
 A Probe is software component that is integrated in the cloud that is being monitored by the [TMA Framework](https://github.com/eubr-atmosphere/tma-framework#trustworthiness-monitoring--assessment-framework). It integrates with `TMA Monitor Component` through the interface defined in [here](https://github.com/eubr-atmosphere/tma-framework-m#tma-monitor-message-format).
 
-## How does these probe's thing work?
+## How does this probe's thing work?
 
 A probe provides the raw data to the `TMA Framework`, which is responsible to calculate the metrics according to the quality model, and defines actions to potentially adapt the system under adaptation.
 
@@ -13,6 +13,7 @@ Some of the Work Packages will create their own probes. They are:
 In order to perform a secure connection, each probe should have the certificate from Monitor component. With this certificate, probes assure the Monitor identity and are able to encrypt all communication with Monitor public key, which only allows Monitor to decrypt information with its private key.
 
 ## How can I create my own probe?
+
 Instructions to create a probe in `Java` are [provided here](https://github.com/eubr-atmosphere/tma-framework-m/tree/master/development/libraries/monitor-client).
 A demo probe showing the key features is [available here](https://github.com/eubr-atmosphere/tma-framework-m/tree/master/development/probes). Further details will be added soon in both cases.
 
