@@ -14,7 +14,7 @@ In order to perform a secure connection, each actuator should have the Executor 
 
 ## How can I create my own actuator?
 Instructions to create an actuator in `Java` are [provided here](https://github.com/eubr-atmosphere/tma-framework-e/tree/master/development/actuators).
-A demo actuator showing the key features is [available here](https://github.com/eubr-atmosphere/tma-framework-e/tree/new/actuator_api/development/actuators/demo-actuator-java).
+A demo actuator showing the key features is [available here](https://github.com/eubr-atmosphere/tma-framework-e/tree/master/development/actuators/demo-actuator-java).
 
 ## What will be the languages supported?
 The executor performs a REST API request; therefore, actuators can be developed in any language.
