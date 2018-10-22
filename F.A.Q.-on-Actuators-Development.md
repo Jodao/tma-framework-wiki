@@ -10,8 +10,6 @@ Some of the Work Packages will create their own actuators. They are:
 - **WP5: Distributed Trustworthy Data Management Services**: the actuators for this WP will be created in the task T5.4 (Trustworthiness Measurements and Adaptation Mechanisms for Data Management);
 - **WP6: Trustworthy Data Processing Services**: the actuators for this WP will be created in the task T6.4 (Data Processing Services Trustworthiness Measurement and Adaptation Mechanisms).
 
-**Review**: check if the WPs above will create actuators and if they will be created in the listed tasks.
-
 In order to perform a secure connection, each actuator should have the Executor component certificate. With it, actuators assure the Executor identity and are able to encrypt all communication with Executor public key, which only allows Executor to decrypt information with its private key.
 
 ## How can I create my own actuator?
