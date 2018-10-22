@@ -1,6 +1,6 @@
 An Actuator is software component that is integrated into the cloud that is being monitored by the [TMA Framework](https://github.com/eubr-atmosphere/tma-framework#trustworthiness-monitoring--assessment-framework). It integrates with `TMA Execute Component` through the interface defined in [here](https://github.com/eubr-atmosphere/tma-framework-k#message-format-for-actions-registration).
 
-## How does these actuator's thing work?
+## How does this actuator's thing work?
 
 An actuator contains operations known by the `TMA Framework`, which is responsible to call them when an adaptation is needed according to the quality model and its thresholds.
 
