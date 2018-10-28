@@ -1,0 +1,1 @@
+All instructions needed to deploy TMA Monitor are presented in the following [link](https://github.com/eubr-atmosphere/tma-framework-m/blob/master/development/server/README.md).
