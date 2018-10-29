@@ -1,5 +1,5 @@
 # Deployment of TMA Monitor
-To deploy a testing mode of TMA Monitor, the first step is to deploy all components of TMA Monitor. To do that you should follow the instructions presented in the page [Deployment-of-TMA-Monitor-in-Kubernetes](Deployment-of-TMA-Monitor-in-Kubernetes).
+To deploy a testing mode of TMA Monitor, the first step is to deploy all components of TMA Monitor. To do that you should follow the instructions presented in the page that explains how to [Deploy TMA Monitor in kubernetes](Deploy-TMA-Monitor-in-Kubernetes).
 
 
 # Testing Mode Setup
