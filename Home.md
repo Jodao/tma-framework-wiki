@@ -29,7 +29,11 @@ Each repository maintains its own issues and projects, while the [umbrella proje
 Specific tutorial containing usage instructions for parts of the platform will be included here.
 However, this is still under development.
 
-* [Deploy a testing mode TMA Monitor deployment in kubernetes](Deploy-a-testing-mode-TMA-Monitor-deployment-in-kubernetes)
-* [Integrate TMA Monitor Client in your Java Probe](Integrate-TMA-Monitor-Client-in-your-Java-Probe)
-* Integrate TMA Monitor Client in your Python Probe
-* Deploy a TMA Monitor deployment in Kubernetes
+* [Integrate TMA Monitor Client in your Java Probe](https://github.com/eubr-atmosphere/tma-framework-m/tree/master/development/libraries/java-client-lib)
+* [Integrate TMA Monitor Client in your Python Probe](https://github.com/eubr-atmosphere/tma-framework-m/tree/master/development/libraries/python-client-lib)
+* [Integrate TMA Monitor Client in your C# Probe](https://github.com/eubr-atmosphere/tma-framework-m/tree/master/development/libraries/cs-client-lib)
+* [Deploy TMA Monitor in Kubernetes](https://github.com/eubr-atmosphere/tma-framework-m/tree/master/development/server)
+* [Deploy TMA Planning in Kubernetes](https://github.com/eubr-atmosphere/tma-framework-p/tree/master/development)
+* [Deploy TMA Execute in Kubernetes](https://github.com/eubr-atmosphere/tma-framework-e/tree/master/development/executor)
+* [Deploy TMA Knowledge in Kubernetes](https://github.com/eubr-atmosphere/tma-framework-k/tree/master/development)
+
