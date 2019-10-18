@@ -13,8 +13,11 @@ Some of the Work Packages will create their own actuators. They are:
 In order to perform a secure connection, each actuator should have the Executor component certificate. With it, actuators assure the Executor identity and are able to encrypt all communication with Executor public key, which only allows Executor to decrypt information with its private key.
 
 ## How can I create my own actuator?
-Instructions to create an actuator in `Java` are [provided here](https://github.com/eubr-atmosphere/tma-framework-e/tree/master/development/actuators).
+Instructions to create an actuator in `Java` are [provided here](https://github.com/eubr-atmosphere/tma-framework-e/tree/master/development/libraries/java-actuator-base).
 A demo actuator showing the key features is [available here](https://github.com/eubr-atmosphere/tma-framework-e/tree/master/development/actuators/demo-actuator-java).
+
+Instructions to create an actuator in `Python` are [provided here](https://github.com/eubr-atmosphere/tma-framework-e/tree/master/development/libraries/python-actuator-base).
+A demo actuator showing the key features is [available here](https://github.com/eubr-atmosphere/tma-framework-e/tree/master/development/actuators/demo-actuator-python).
 
 ## What will be the languages supported?
 The executor performs a REST API request; therefore, actuators can be developed in any language.
