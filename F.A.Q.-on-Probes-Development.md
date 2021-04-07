@@ -1,4 +1,4 @@
-A Probe is software component that is integrated in the cloud that is being monitored by the [TMA Framework](https://github.com/eubr-atmosphere/tma-framework#trustworthiness-monitoring--assessment-framework). It integrates with `TMA Monitor Component` through the interface defined in [here](https://github.com/eubr-atmosphere/tma-framework-m#tma-monitor-message-format).
+A Probe is software component that is integrated in the cloud that is being monitored by the [TMA Framework](https://github.com/nmsa/tma-framework#trustworthiness-monitoring--assessment-framework). It integrates with `TMA Monitor Component` through the interface defined in [here](https://github.com/nmsa/tma-framework-m#tma-monitor-message-format).
 
 ## How does this probe's thing work?
 
@@ -14,14 +14,14 @@ In order to perform a secure connection, each probe should have the certificate 
 
 ## How can I create my own probe?
 
-Instructions to create a probe in `Java` are [provided here](https://github.com/eubr-atmosphere/tma-framework-m/tree/master/development/libraries/java-client-lib).
-A demo probe showing the key features is [available here](https://github.com/eubr-atmosphere/tma-framework-m/tree/master/development/probes/probe-java-demo).
+Instructions to create a probe in `Java` are [provided here](https://github.com/nmsa/tma-framework-m/tree/master/development/libraries/java-client-lib).
+A demo probe showing the key features is [available here](https://github.com/nmsa/tma-framework-m/tree/master/development/probes/probe-java-demo).
 
-Instructions to create a probe in `Python` are [provided here](https://github.com/eubr-atmosphere/tma-framework-m/tree/master/development/libraries/python-client-lib).
-A demo probe showing the key features is [available here](https://github.com/eubr-atmosphere/tma-framework-m/tree/master/development/probes/probe-python-demo)
+Instructions to create a probe in `Python` are [provided here](https://github.com/nmsa/tma-framework-m/tree/master/development/libraries/python-client-lib).
+A demo probe showing the key features is [available here](https://github.com/nmsa/tma-framework-m/tree/master/development/probes/probe-python-demo)
 
-Instructions to create a probe in C# are [provided here](https://github.com/eubr-atmosphere/tma-framework-m/tree/master/development/libraries/cs-client-lib).
-A demo probe showing the key features is [available here](https://github.com/eubr-atmosphere/tma-framework-m/tree/master/development/probes/probe-cs-demo)
+Instructions to create a probe in C# are [provided here](https://github.com/nmsa/tma-framework-m/tree/master/development/libraries/cs-client-lib).
+A demo probe showing the key features is [available here](https://github.com/nmsa/tma-framework-m/tree/master/development/probes/probe-cs-demo)
 
 ## What will be the languages supported?
 The monitor provides a REST API, therefore probes can be developed in any language.
